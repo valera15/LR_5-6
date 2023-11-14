@@ -4,6 +4,7 @@ var i,max,min,maxn,minn: integer;
   begin
     // массив из 20 чисел
     // поменять местами наиб и наим эл-т массива
+   /// maxn, minn - номера max и min эл-ов
     max:=1;
     min:=100;
     
