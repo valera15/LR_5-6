@@ -26,7 +26,6 @@ var i,max,n1,min,n2,p,n3: integer;
         min:=A[i];
         n2:=i;
         end;
-      //if A[i] mod 5=0 then writeln (A[i]);
       end;
     writeln (A);
     writeln ('max = ',max,'  n1 = ',n1);
